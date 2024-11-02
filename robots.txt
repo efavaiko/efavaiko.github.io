@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://efavaiko.github.io/EBH/sitemap_index.txt
+Sitemap: https://efavaiko.github.io/KIT/sitemap_index.txt
+Sitemap: https://efavaiko.github.io/Xtu/sitemap_index.txt
+Sitemap: https://efavaiko.github.io/rZq/sitemap_index.txt
